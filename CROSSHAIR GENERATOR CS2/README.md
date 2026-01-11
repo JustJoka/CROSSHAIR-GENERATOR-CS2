@@ -41,7 +41,7 @@ python main.py
 
 ---
 
-##🖥️ Como usar
+## 🖥️ Como usar
 <br>
 Clique no botão "Gerar mira"<br>
 <br>
@@ -50,5 +50,6 @@ Copie os comandos gerados<br>
 Cole no console do CS2<br>
 <br>
 Teste a nova mira no jogo<br>
+
 
 
