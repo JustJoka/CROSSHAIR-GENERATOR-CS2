@@ -39,6 +39,8 @@ Execute o programa:
 
 python main.py
 
+---
+
 🖥️ Como usar
 <br>
 Clique no botão "Gerar mira"<br>
