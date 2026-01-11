@@ -40,8 +40,8 @@ Execute o programa:
 python main.py
 
 🖥️ Como usar
-
-Clique no botão "Gerar mira"
-Copie os comandos gerados
-Cole no console do CS2
-Teste a nova mira no jogo
+<br>
+Clique no botão "Gerar mira"<br>
+Copie os comandos gerados<br>
+Cole no console do CS2<br>
+Teste a nova mira no jogo<br>
